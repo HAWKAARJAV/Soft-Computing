@@ -1,0 +1,12 @@
+# Python Environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE and MacOS caching
+.vscode/
+.idea/
+.DS_Store
+
+# Data Directory (Extremely strictly ignored to avoid large file issues)
+data/
