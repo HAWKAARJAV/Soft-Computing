@@ -11,6 +11,12 @@ limitations, see [Complete Project Documentation](docs/PROJECT_DOCUMENTATION.md)
 For a shorter, presentation-friendly explanation of only the fuzzy extension,
 see [Simple Fuzzy Fusion Guide](docs/FUZZY_FUSION_SIMPLE_GUIDE.md).
 
+For a simple explanation of the complete end-to-end system, see
+[Complete System Simple Guide](docs/COMPLETE_SYSTEM_SIMPLE_GUIDE.md).
+
+For current results and a teacher-demo script, see
+[Results and How to Show the Work](docs/RESULTS.md).
+
 ![Accuracy Matrix](docs/images/classification_metrics.png)
 
 ---

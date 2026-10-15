@@ -1,0 +1,94 @@
+{
+  "examples": [
+    {
+      "confidences": {
+        "audio": 0.588703989982605,
+        "eeg": 0.5002291798591614,
+        "video": 0.5124072432518005
+      },
+      "disagreement": 0.05898319681485494,
+      "fuzzy_weights": {
+        "audio": 0.3998467258824046,
+        "eeg": 0.2901465128018521,
+        "video": 0.31000676131574334
+      },
+      "sample_index": 0,
+      "true_label": "Sad"
+    },
+    {
+      "confidences": {
+        "audio": 0.6223534941673279,
+        "eeg": 0.5000413060188293,
+        "video": 0.506541907787323
+      },
+      "disagreement": 0.08159652352333069,
+      "fuzzy_weights": {
+        "audio": 0.41861004927772183,
+        "eeg": 0.2853554891948524,
+        "video": 0.2960344615274258
+      },
+      "sample_index": 28,
+      "true_label": "Happy"
+    },
+    {
+      "confidences": {
+        "audio": 0.5000503063201904,
+        "eeg": 0.5008054375648499,
+        "video": 0.5063614845275879
+      },
+      "disagreement": 0.004274507363637288,
+      "fuzzy_weights": {
+        "audio": 0.32886115501072166,
+        "eeg": 0.330322037710685,
+        "video": 0.3408168072785934
+      },
+      "sample_index": 71,
+      "true_label": "Happy"
+    },
+    {
+      "confidences": {
+        "audio": 0.6213992834091187,
+        "eeg": 0.5005092024803162,
+        "video": 0.5022014379501343
+      },
+      "disagreement": 0.08127229412396748,
+      "fuzzy_weights": {
+        "audio": 0.42089977801897754,
+        "eeg": 0.2881295928788119,
+        "video": 0.2909706291022105
+      },
+      "sample_index": 143,
+      "true_label": "Happy"
+    },
+    {
+      "confidences": {
+        "audio": 0.6220141053199768,
+        "eeg": 0.5023112297058105,
+        "video": 0.5008424520492554
+      },
+      "disagreement": 0.08190437157948811,
+      "fuzzy_weights": {
+        "audio": 0.4208174123793975,
+        "eeg": 0.2908205801982251,
+        "video": 0.28836200742237733
+      },
+      "sample_index": 140,
+      "true_label": "Happy"
+    },
+    {
+      "confidences": {
+        "audio": 0.5051798224449158,
+        "eeg": 0.5000263452529907,
+        "video": 0.512416422367096
+      },
+      "disagreement": 0.008260051409403482,
+      "fuzzy_weights": {
+        "audio": 0.3322447647954863,
+        "eeg": 0.3226220706044825,
+        "video": 0.3451331646000312
+      },
+      "sample_index": 163,
+      "true_label": "Sad"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Synthetic EAV demo — held-out TEST accuracy (Sad vs Happy)
+Data folder: data/synthetic
+Baseline checkpoint: demo_checkpoints/synthetic_multimodal.pth
+
+  original_multimodal           accuracy=99.4%  F1=0.994  AUC=1.000
+  video_only                    accuracy=97.8%  F1=0.978  AUC=0.999
+  average_fusion                accuracy=96.7%  F1=0.967  AUC=1.000
+  fixed_weighted_fusion         accuracy=96.7%  F1=0.967  AUC=1.000
+  fuzzy_adaptive_fusion         accuracy=96.7%  F1=0.967  AUC=1.000
+  audio_only                    accuracy=96.1%  F1=0.961  AUC=0.999
+  eeg_only                      accuracy=65.0%  F1=0.639  AUC=0.752
+
+Note: tensors are procedurally generated (not real EAV recordings) for coursework demonstration.
